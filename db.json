@@ -1,0 +1,22 @@
+[
+        BillDBO(
+            fileName: 'Reporte 1: Evaluación Anual',
+            billUrl: 'http://accioneduca.org/admin/archivos/modulos/ayudanos/prueba.pdf',
+            date: DateTime.now()),
+        BillDBO(
+            fileName: 'Informe 2024: Progreso del Proyecto',
+            billUrl: 'http://accioneduca.org/admin/archivos/modulos/ayudanos/prueba.pdf',
+            date: DateTime.now()),
+        BillDBO(
+            fileName: 'Resumen de Actividades: Julio 2024',
+            billUrl: 'http://accioneduca.org/admin/archivos/modulos/ayudanos/prueba.pdf',
+            date: DateTime.now()),
+        BillDBO(
+            fileName: 'Estadísticas Mensuales: Análisis de Datos',
+            billUrl: 'http://accioneduca.org/admin/archivos/modulos/ayudanos/prueba.pdf',
+            date: DateTime.now()),
+        BillDBO(
+            fileName: 'Plan de Acción: Próximos Pasos',
+            billUrl: 'http://accioneduca.org/admin/archivos/modulos/ayudanos/prueba.pdf',
+            date: DateTime.now())
+      ]
